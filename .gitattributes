@@ -1,2 +1,2 @@
-*.wlt linguist-vendired
-*.shader linguist-vendired
+*.wlt linguist-vendored
+*.shader linguist-vendored
